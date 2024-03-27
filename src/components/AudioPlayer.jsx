@@ -38,6 +38,11 @@ const tracks = [
     title: "El tiempo nos dará la razón ٩(◕‿◕｡)۶ - Bakura",
     tags: ["Raw/Deep/Hypnotic", "Trance"],
   },
+  {
+    url: "https://api-audiorepro.onrender.com/audio-files/grenk-detroid-04-10-23.mp3",
+    title: "Set Detroit.Chile 04/10/23 - Grenk",
+    tags: ["Raw/Deep/Hypnotic"],
+  },
 ];
 
 const colors = {
