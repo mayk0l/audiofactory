@@ -17,7 +17,27 @@ const tracks = [
     url: "https://api-audiorepro.onrender.com/audio-files/dj-set-techno-or-die-grenk.mp3",
     title: "DJ SET TECHNO OR DIE 09/12/2023 - Grenk",
     tags: ["Raw/Deep/Hypnotic"],
-  }
+  },
+  {
+    url: "https://api-audiorepro.onrender.com/audio-files/set-raw-limited-edition.mp3",
+    title: "Set Raw Limited Edition - Cinder",
+    tags: ["Raw/Deep/Hypnotic"],
+  },
+  {
+    url: "https://api-audiorepro.onrender.com/audio-files/bounce.mp3",
+    title: "Bounce - Cinder",
+    tags: ["Raw/Deep/Hypnotic"],
+  },
+  {
+    url: "https://api-audiorepro.onrender.com/audio-files/las-musas-no-tienen-k-caerte-bien.mp3",
+    title: "LAS MUSAS NO TIENEN K CARTE BN - Bakura",
+    tags: ["Raw/Deep/Hypnotic", "Trance"],
+  },
+  {
+    url: "https://api-audiorepro.onrender.com/audio-files/el-tiempo-nos-dara-la-razon.mp3",
+    title: "El tiempo nos dará la razón ٩(◕‿◕｡)۶ - Bakura",
+    tags: ["Raw/Deep/Hypnotic", "Trance"],
+  },
 ];
 
 const colors = {
