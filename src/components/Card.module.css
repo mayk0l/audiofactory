@@ -1,0 +1,52 @@
+.card {
+    border: 1px solid hsl(0, 0%, 80%);
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px hsla(0, 0%, 0%, 0.1);
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    max-width: 300px;
+    display: inline-block;
+}
+
+.card .cardImage {
+    max-width: 60%;
+    height: auto;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+.card .cardTitle {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.card .cardText {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: hsl(0, 3, 30);
+    line-height: 1.5;
+    text-align: center;
+}
+
+.instagramButton {
+    background-color: #292D48;
+    color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 10px;
+    transition: background-color 0.3s ease;
+}
+
+.instagramButton:hover {
+    background-color: #171926;
+    padding: 12px 24px;
+}
+
+h2{
+    margin-bottom: 5px;
+}
