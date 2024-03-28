@@ -7,10 +7,18 @@ import MaykolCard from "./components/MaykolCard";
 import GrenkCard from "./components/GrenkCard";
 import BakuraCard from "./components/BakuraCard";
 import CinderCard from "./components/CinderCard";
+import React from "react";
+import { Helmet } from "react-helmet";
 
 function App() {
   return (
     <>
+      <Helmet>
+        <meta
+          name="viewport"
+          content="width=device-width, initial-scale=1"
+        ></meta>
+      </Helmet>
       <div>
         <img src={Logo} className="logo" alt="logo" />
         <Header />
