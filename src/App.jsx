@@ -9,6 +9,7 @@ import BakuraCard from "./components/BakuraCard";
 import CinderCard from "./components/CinderCard";
 import React from "react";
 import { Helmet } from "react-helmet";
+import VideoPlayer from "./components/VideoPlayer";
 
 function App() {
   return (
@@ -20,8 +21,8 @@ function App() {
         ></meta>
       </Helmet>
       <div>
-        <img src={Logo} className="logo" alt="logo" />
         <Header />
+        <VideoPlayer />
         <AudioPlayer />
         <MaykolCard />
         <GrenkCard />
